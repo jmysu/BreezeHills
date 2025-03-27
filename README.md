@@ -1,6 +1,6 @@
 # BreezeHills
 My DIY stuff in BreezeHills
-<img src="PIC/BreezeHills0328_2025.png" width=50%> <br>
+<img src="pic/BreezeHills0328_2025.png" width=50%> <br>
 
 ---
 ### References
