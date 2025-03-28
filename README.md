@@ -6,5 +6,5 @@ My DIY stuff in BreezeHills
 ---
 ### References
 ---
-[BreezeHills](https://www.nxp.com/docs/en/application-note/AN3219.pdf) 微風之丘. <br>
+[BreezeHills]([https://github.com/jmysu/BreezeHills/blob/main/pic/GMAP_%E5%BE%AE%E9%A2%A8%E4%B9%8B%E4%B8%98.jpg]) 微風之丘. <br>
  
