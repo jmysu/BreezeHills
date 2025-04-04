@@ -2,6 +2,9 @@
 My DIY stuff in BreezeHills 
 <br>
 <img src="pic/BreezeHills0328_2025.png" width=75%> <br>
+<br>
+<img src="pic/Formosa%20native%20cinnamon%20202501.jpg" width=50%> <br>
+
 
 ---
 ### References
