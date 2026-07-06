@@ -6,7 +6,7 @@ My DIY stuff in BreezeHills
 <img src="pic/Formosa-native-cinnamon%20Label%200405.jpg" width=35%> <br>
 
 <br><br>
-<img src="pic/BreezeHill50_2607_AI.png">
+<img src="pic/鐵雄#2AI.jpg" width=30% > <img src="pic/BreezeHill50_2607_AI.png" width=60%>
 
 ---
 ### References
